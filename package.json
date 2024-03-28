@@ -1,0 +1,14 @@
+{
+    "name": "100-js-challenges",
+    "version": "1.0.0",
+    "description": "JavaScript Data Structures & Algorithms practice problems",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "author": "Jonathan Long",
+    "license": "MIT",
+    "devDependencies": {
+      "jest": "^29.6.1"
+    }
+  }
